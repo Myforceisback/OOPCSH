@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OOPCSH": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
